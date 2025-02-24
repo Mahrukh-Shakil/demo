@@ -1,4 +1,4 @@
 # demo
 first repository
 <br>
-Author-Mahrukh (student)
+Author-Mahrukh (student Of NED)
